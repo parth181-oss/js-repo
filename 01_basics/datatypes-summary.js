@@ -27,3 +27,7 @@ const myFunc =function(){
 } // function
 
 
+//------->Memory<-------
+
+// Stack => Primitive
+// Heap => Non-Primitive
