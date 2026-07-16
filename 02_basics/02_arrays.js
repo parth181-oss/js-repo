@@ -8,7 +8,7 @@ console.log(marvel_heroes[3][1]);
 const all_heroes = marvel_heroes.concat(dc_heroes)
 console.log(all_heroes);
 
-//split method 
+//spread method 
 
 const all_new_heroes = [...marvel_heroes, ...dc_heroes]
 
